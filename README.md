@@ -12,7 +12,7 @@
 🖼️ Project Preview
 
 <p align="center">
-  <img src="analog-clock.png" alt="Analog Clock Preview" width="80%">
+  <img src="analog-clock.png" width="80%">
 </p>
 
 ⸻
